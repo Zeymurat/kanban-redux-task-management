@@ -1,6 +1,6 @@
 # Kanban Task Yönetim Uygulaması
 
-Bu proje, React ve Redux kullanılarak geliştirilmiş bir Kanban tahtası uygulamasıdır. Kullanıcılar görevlerini sürükle-bırak yöntemiyle farklı sütunlar arasında taşıyabilir, yeni görevler ekleyebilir ve mevcut görevleri düzenleyebilirler.
+Bu proje, React ve Redux kullanılarak geliştirilmiş bir Kanban görünümü ile görev yönetimi uygulamasıdır. Kullanıcılar görevlerini sürükle-bırak yöntemiyle farklı sütunlar arasında taşıyabilir, yeni görevler ekleyebilir ve mevcut görevleri düzenleyebilirler.
 
 ## Özellikler
 
